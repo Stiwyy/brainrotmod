@@ -1,0 +1,8 @@
+{
+    "name": "SSIDWebhookModule",
+    "creator": "Stiwyy",
+    "description": "A module that sends the player's username and UUID to a specified webhook.",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": ["requestV2"]
+}
